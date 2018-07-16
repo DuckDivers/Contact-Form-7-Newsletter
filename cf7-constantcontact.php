@@ -3,9 +3,9 @@
 Plugin Name: Contact Form 7 Newsletter
 Plugin URI: https://katz.co/plugins/contact-form-7-newsletter/
 Description: Add the power of Constant Contact to Contact Form 7
-Author: Katz Web Services, Inc.
+Author: Katz Web Services, Inc. - Duck Diver Version To Update
 Author URI: http://www.katzwebservices.com
-Version: 2.2
+Version: 3.1
 */
 
 /*  Copyright 2015 Katz Web Services, Inc. (email: info@katzwebservices.com)
