@@ -53,6 +53,13 @@ class CTCTCF7_Shortcode extends CTCTCF7 {
 		$code = stripslashes_deep( @$_REQUEST['data'] );
 
 		// Get the tags from the form code
+        
+        /**
+         * ToDo
+         *
+         * @Fix below to get the form tags
+         */
+        
 		$scanned_form_tags = WPCF7_FormTagsManager::get_instance()->wpcf7_scan_form_tags( $code );
         
 		if ( count( $scanned_form_tags ) ) {
