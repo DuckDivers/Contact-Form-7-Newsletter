@@ -4,7 +4,7 @@
 		/**
 		 * When the form code changes, generate a drop-down list of possible merge tags.
 		 */
-		$( '#wpcf7-form' ).on( 'change', function ( event ) {
+/*		$( '#wpcf7-form' ).on( 'change', function ( event ) {
 			var data = {
 				'action': 'ctctcf7_generate_dropdowns',
 				'dataType': 'json',
@@ -45,7 +45,7 @@
 						}
 					} );
 
-		} ).trigger( 'change' );
+		} ).trigger( 'change' );*/
 
 		/**
 		 * Build a <select> dropdown based on the AJAX response
